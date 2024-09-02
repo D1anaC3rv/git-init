@@ -5,23 +5,30 @@
 <html lang="es">
 <head>
 <.!IMPORTANT>
-<AQUI LE DAMOS ESTRUCTURA A NUESTRO TITULO
+<AQUI LE DAMOS ESTRUCTURA NUESTRO ENCABEZADO
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BrightTech - Página de Inicio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<.!IMPORTANT>
+< AQUI EMPIEZA LA PARTE DEL CONTENIDO EN GENERAL 
     <header>
+<.!NOTE>
+AQAUI SE ESPECIFICA AL TITULO 
+
         <h1>Bienvenido a BrightTech</h1>
     </header>
-
+<.!NOTE>
+<AQUI EMPIEZA NUESTRO CONTENIDO 
     <main>
         <section id="about">
             <h2>Sobre Nosotros</h2>
             <p>En BrightTech, nos especializamos en proporcionar soluciones tecnológicas innovadoras para empresas modernas. Nuestro equipo está dedicado a ofrecer productos y servicios de alta calidad para ayudar a tu negocio a crecer.</p>
         </section>
-
+<.!NOTE>
+< AQUI EMPIEZA LA PARTE DE PRODUCTOS EN TABLAS
         <section id="products">
             <h2>Productos</h2>
             <ul>
@@ -34,7 +41,9 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 BrightTech. Todos los derechos reservados.</p>
+<.!NOTE>
+<AQUI ES NUESTRO PIE DE PAGINA 
+<p>&copy; 2024 BrightTech. Todos los derechos reservados.</p>
     </footer>
 </body>
 </html>
