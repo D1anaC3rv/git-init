@@ -1,6 +1,11 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
+<.IMPORTANT>
+<DECLARACION DE TIPO DE DOCUMENTO EN ESTEW CASO ES HTML
+
 <html lang="es">
 <head>
+<.!IMPORTANT>
+<AQUI LE DAMOS ESTRUCTURA A NUESTRO TITULO
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BrightTech - Página de Inicio</title>
